@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 
-**trtien05/trtien05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ My name is Ho Tran Tien ✨**trtien05/trtien05**  
 
-Here are some ideas to get you started:
+Here are something about me:
 
 - 🔭 I’m currently working on developing and improving my Full-Stack skills.
 - 🌱 I’m currently learning about Full-Stack development, along with enhancing my English communication skills.
