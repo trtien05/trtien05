@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **trtien05/trtien05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HoTranTien&show_icons=true&theme=synthwave)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=trtien05\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trtien05&layout=compact&theme=synthwave)
+  
+## GitHub Stats📊 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=trtien05&show_icons=true&theme=moltack)
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trtien05&layout=donut&theme=moltack)
